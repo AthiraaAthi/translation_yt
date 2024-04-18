@@ -1,0 +1,16 @@
+{
+    "about_us": "About Us",
+    "settings": "Settings",
+    "change_language": "Change Language",
+    "about": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+    "appTitle": "M.coffee shop",
+    "header": "Coffee machines in special \nprice for you!",
+    "description": "Choose your favorite products and show your code for discount at the store.",
+    "productOneName": "Essenza Mini ",
+    "productTwoName": "Citi Milk ",
+    "productThreeName": "Lattissima One ",
+    "productFourName": "Nespresso Vertuo Plus",
+    "productFiveName": "Flair Espresso Maker",
+    "discoverButtonText": "DISCOVER MORE MACHINES",
+    "codeButtonText": "SHOW YOUR CODE"
+}
